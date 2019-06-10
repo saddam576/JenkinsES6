@@ -1,0 +1,23 @@
+{
+  "name": "es6_search_function",
+  "version": "1.0.0",
+  "description": "In an array of strings, you need to write a search function, which will return all the strings that contains the searched keyword.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --reporter mocha-junit-reporter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.4",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/register": "^7.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "mocha-junit-reporter": "^1.18.0",
+    "nodemon": "^1.18.10"
+  }
+}
