@@ -7,7 +7,7 @@ pipeline {
         
     stage('Cloning Git') {
       steps {
-        git 'https://github.com/frescoplaylab/JenkinsES6.git'
+        git 'https://github.com/saddam576/JenkinsES6.git'
       }
     }
         
